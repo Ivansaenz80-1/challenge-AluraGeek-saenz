@@ -1,6 +1,24 @@
 {
   "products": [
     {
+      "id": "46b6",
+      "name": "Joystick Md Bt",
+      "price": "150",
+      "image": "https://handsup.com.pe/wp-content/uploads/2021/01/IMG_7517.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Mini console 8 Bits",
+      "price": "80",
+      "image": "https://gadgetsandfunmx.com/api/fileApi/images/123/3/consola_8_bits_1.jpg"
+    },
+    {
+      "id": "461",
+      "name": "Bolso",
+      "price": "120",
+      "image": "https://www.nemesisec.gg/wp-content/uploads/2022/08/Mochila-razer.png"
+    },
+    {
       "name": "Darth Vader",
       "price": "50",
       "image": "https://http2.mlstatic.com/D_NQ_NP_975969-MLA46467090682_062021-O.webp",
@@ -29,6 +47,42 @@
       "name": "flash",
       "price": "55",
       "image": "https://http2.mlstatic.com/D_NQ_NP_643523-MLA49180554005_022022-O.webp"
+    },
+    {
+      "id": "cbf2",
+      "name": "capitan",
+      "price": "51",
+      "image": "https://m.media-amazon.com/images/I/51aqEMfw9KL._AC_SY879_.jpg"
+    },
+    {
+      "id": "46b8",
+      "name": "Consola G5 mini",
+      "price": "128",
+      "image": "https://handsup.com.pe/wp-content/uploads/2022/03/MCG5R.jpg"
+    },
+    {
+      "id": "e90d",
+      "name": "Smart Tv 50",
+      "price": "55",
+      "image": "https://cdn1.coppel.com/images/catalog/pm/2096523-1.jpg"
+    },
+    {
+      "id": "cbf2",
+      "name": "xbox Series s",
+      "price": "51",
+      "image": "https://assets.xboxservices.com/assets/ff/0f/ff0f7631-df48-4ff6-868a-45cd0dd47edd.png?n=247813_Image-0_Buy-Box-4_780x615.png"
+    },
+    {
+      "id": "e735",
+      "name": "xbox ",
+      "price": "48",
+      "image": "https://assets.xboxservices.com/assets/ff/0f/ff0f7631-df48-4ff6-868a-45cd0dd47edd.png?n=247813_Image-0_Buy-Box-4_780x615.png"
+    },
+    {
+      "id": "a50f",
+      "name": "mini ",
+      "price": "100",
+      "image": "https://gadgetsandfunmx.com/api/fileApi/images/123/3/consola_8_bits_1.jpg"
     }
   ]
 }
